@@ -20,6 +20,9 @@
   --form-animation-duration: 0.3s;
   --input-focus-scale: 1.01;
   --rtl-direction: rtl;
+
+  --scroll-button-size: 3rem;
+  --scroll-button-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
 }
 
 html {
