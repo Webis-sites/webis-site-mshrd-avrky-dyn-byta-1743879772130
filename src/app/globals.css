@@ -11,6 +11,11 @@
 
   --header-height: 70px;
   --transition-speed: 0.3s;
+
+  --animation-duration: 0.8s;
+  --animation-timing: cubic-bezier(0.4, 0, 0.2, 1);
+  --card-shadow: 0 10px 30px -5px rgba(0, 0, 0, 0.1);
+  --text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 html {
