@@ -6,6 +6,7 @@ import HeaderSection from '../components/HeaderSection';
 import HeroSection from '../components/HeroSection';
 import AboutSection from '../components/AboutSection';
 import ExpertiseSection from '../components/ExpertiseSection';
+import ProcessSection from '../components/ProcessSection';
 
 export default function HomePage() {
   return (
@@ -21,6 +22,7 @@ export default function HomePage() {
     <HeroSection />
     <AboutSection />
     <ExpertiseSection />
+    <ProcessSection />
   </main>
       
       <footer className="py-6 bg-gray-100 dark:bg-gray-800">
